@@ -1,0 +1,32 @@
+﻿@* Center the content and apply box style *@
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 50vh;">
+    <div class="box-style p-4">
+        <h1 class="text-center">Roles</h1>
+
+     
+      
+      
+
+        <table class="table table-bordered mt-4">
+            <thead class="table-dark">
+                <tr>
+                    <th>Role Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var role in Model)
+                {
+                    <tr>
+                        <td>@role.Name</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@role.Id" class="btn btn-warning btn-sm">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@role.Id" class="btn btn-danger btn-sm ms-2">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+ 
+    </div>
+</div>

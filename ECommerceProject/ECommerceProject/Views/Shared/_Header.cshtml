@@ -1,0 +1,204 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Font Awesome Icons</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <style>
+        /* Custom style for orange icons */
+        .fa-orange {
+            color: orange;
+        }
+
+        /* Watermark styling */
+        .watermark {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            text-align: center;
+            font-size: 14px;
+            color: gray;
+            background-color: rgba(255, 255, 255, 0.8);
+            z-index: 1000;
+            padding: 5px 0;
+        }
+
+        footer .watermark a {
+            color: #0077b5; /* LinkedIn blue color */
+            text-decoration: none; /* Remove underline */
+        }
+
+            footer .watermark a:hover {
+                color: #005c8e; /* Darker blue on hover */
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container-fluid">
+            <div class="row py-3 border-bottom">
+                <!-- Logo Section -->
+                <div class="col-sm-4 col-lg-3 text-center text-sm-start">
+                    <a href="index.html">
+                        <img src="~/images/logo.png" alt="Logo" class="img-fluid logo-small">
+                    </a>
+                </div>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <!-- Search Bar Section -->
+                    <div class="col-sm-6 col-lg-5 d-flex align-items-center">
+                        <div class="search-bar bg-light p-2 my-2 rounded-4 d-flex align-items-center w-100">
+                            <form id="search-form" action="index.html" method="post" class="flex-grow-1 w-100">
+                                <input type="text" class="form-control border-0 bg-transparent" placeholder="Search for products" />
+                            </form>
+                            <button class="btn bg-transparent p-0">
+                                <i class="fas fa-search fa-orange"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- User Interaction and Cart Section -->
+                    <div class="col-sm-8 col-lg-4 d-flex justify-content-between align-items-center">
+                        <ul class="list-unstyled d-flex m-0 gap-3">
+                            <!-- Account Dropdown -->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="accountDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="fas fa-user-circle fa-orange"></i> Welcome, @User.Identity.Name
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="accountDropdown">
+                                    <a class="dropdown-item" asp-action="profile" asp-controller="Account">Profile</a>
+                                    <a class="dropdown-item" asp-action="Logout" asp-controller="Account">Logout</a>
+                                </div>
+                            </li>
+
+                            <!-- Mobile Search -->
+                            <li class="d-lg-none">
+                                <a href="#" class="rounded-circle bg-light p-2" data-bs-toggle="offcanvas" data-bs-target="#offcanvasSearch" aria-controls="offcanvasSearch">
+                                    <i class="fas fa-search fa-orange"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        @if (!(User.IsInRole("Admin") || User.IsInRole("Trader")))
+                        {
+                            <!-- Cart Section -->
+                            <div class="cart-icon position-relative">
+                                <button class="btn border-0 bg-transparent" type="button" id="cartTotalBtn">
+                                    <i class="fas fa-shopping-cart fa-orange"></i>
+                                    <a href="http://localhost:5198/Cart" class="position-absolute top-0 start-100 translate-middle text-decoration-none">
+                                        <span id="cartTotal" class="badge bg-primary">0</span>
+                                    </a>
+                                </button>
+                            </div>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+
+        <!-- Main Menu -->
+        @if (User.Identity?.IsAuthenticated == true)
+        {
+            <div class="container-fluid">
+                <div class="row py-3">
+                    <nav class="navbar navbar-expand-lg">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="offcanvas offcanvas-end" id="offcanvasNavbar">
+                            <div class="offcanvas-header">
+                                <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+                            </div>
+                            <div class="offcanvas-body">
+                                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-action="index" asp-controller="Home">
+                                            <i class="fas fa-home fa-orange"></i> Home
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-action="index" asp-controller="Product">
+                                            <i class="fas fa-apple-alt fa-orange"></i> Fruits
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-action="index" asp-controller="Product">
+                                            <i class="fas fa-carrot fa-orange"></i> Vegetables
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" asp-action="index" asp-controller="Product">
+                                            <i class="fas fa-glass-cheers fa-orange"></i> Drink
+                                        </a>
+                                    </li>
+                                    <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" data-bs-toggle="dropdown"><i class="fas fa-file fa-orange"></i> Pages</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="dropdown-item cart-icon position-relative">
+                                                <a asp-action="index" asp-controller="Product" class="text-decoration-none">
+                                                    <i class="fas fa-shopping-cart fa-orange"></i> Shop
+                                                </a>
+                                            </li>
+                                            <li class="dropdown-item cart-icon position-relative">
+                                                <a asp-action="index" asp-controller="cart" class="text-decoration-none">
+                                                    <i class="fas fa-shopping-cart fa-orange"></i> Cart
+                                                </a>
+                                            </li>
+                                            <li class="dropdown-item cart-icon position-relative">
+                                                <a asp-action="SubmitFeedback" asp-controller="Feedback" class="text-decoration-none">
+                                                    <i class="fas fa-cogs fa-orange"></i> Feedback
+                                                </a>
+                                            </li>
+                                            @if ((User.IsInRole("Admin") || User.IsInRole("Trader")))
+                                            {
+                                                <li class="dropdown-item cart-icon position-relative">
+                                                    <a asp-action="Servicepage" asp-controller="Service" class="text-decoration-none">
+                                                        <i class="fas fa-cogs fa-orange"></i> Service
+                                                    </a>
+                                                </li>
+                                            }
+                                            <li class="dropdown-item cart-icon position-relative">
+                                                <a asp-action="InformationPage" asp-controller="Service" class="text-decoration-none">
+                                                    <i class="fas fa-user-circle fa-lg text-warning"></i> About me
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li class="nav-item"><a class="nav-link" href="#sale"><i class="fas fa-tags fa-orange"></i> Sale</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="#blog"><i class="fas fa-rss fa-orange"></i> Blog</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        }
+    </header>
+
+    <footer>
+        <div class="watermark">
+            Prepared by <a href="https://www.linkedin.com/in/muhammed-tallat-a440881b7/" target="_blank">Eng: Muhammed Tallat</a>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function updateCartTotal() {
+                fetch('/Cart/GetCartTotal') // Adjust URL based on your routing
+                    .then(response => response.json())
+                    .then(total => {
+                        document.getElementById('cartTotal').textContent = total.toFixed(2); // Update badge with formatted total
+                    })
+                    .catch(error => console.error('Error fetching cart total:', error));
+            }
+
+            // Initial update on page load
+            updateCartTotal();
+
+            // Optionally, update total periodically (e.g., every 5 seconds)
+            setInterval(updateCartTotal, 5000);
+        });
+    </script>
+</body>
+</html>

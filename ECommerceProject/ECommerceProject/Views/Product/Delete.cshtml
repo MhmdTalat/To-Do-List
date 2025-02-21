@@ -1,0 +1,68 @@
+﻿@model ECommerceProject.Models.Product
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+@if (!(User.IsInRole("Admin") || User.IsInRole("Trader")))
+{
+    <div class="alert alert-danger">
+        You do not have permission to access this page.
+    </div>
+}
+else
+{
+    <h1>Delete</h1>
+
+    @* Check if the product is in any cart and display an appropriate message *@
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @TempData["ErrorMessage"]
+        </div>
+    }
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <h3>Are you sure you want to delete this product?</h3>
+    <div>
+        <h4>Product</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                Name
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                Description
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class="col-sm-2">
+                Price
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-2">
+                Category
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Category.Name)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete" asp-route-id="@Model.Id" method="post">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </form>
+    </div>
+}

@@ -1,0 +1,11 @@
+﻿@model ECommerceProject.ViewModels.RegisterViewModel
+
+<h2>Delete User</h2>
+
+<p>Are you sure you want to delete the user <strong>@Model.Username</strong>?</p>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Username" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="ListUsers" class="btn btn-secondary">Cancel</a>
+</form>

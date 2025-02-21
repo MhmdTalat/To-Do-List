@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ECommerceProject.Models.Category>
+
+<h1>Categories</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Name</td>
+                <td>@category.Department</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Category", new { id = category.Id })">Edit</a> |
+                    <a href="@Url.Action("Delete", "Category", new { id = category.Id })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Category")">Create New Category</a>

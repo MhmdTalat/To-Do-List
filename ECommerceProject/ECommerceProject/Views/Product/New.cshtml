@@ -1,0 +1,67 @@
+﻿@model ECommerceProject.ViewModels.ProductsviewModel
+
+@{
+    ViewData["Title"] = "New Product";
+}
+
+@if (!(User.IsInRole("Admin") || User.IsInRole("Trader")))
+{
+    <div class="alert alert-danger">
+        You do not have permission to access this page.
+    </div>
+}
+else
+{
+    <div class="d-flex justify-content-center align-items-center" style="min-height: 100vh; background-color: #f8f9fa;">
+        <div class="card shadow-lg p-4 col-md-6" style="border-radius: 10px; background-color: #ffffff;">
+            <h1 class="text-center">@ViewData["Title"]</h1>
+            <hr />
+            <form asp-action="SaveNew" enctype="multipart/form-data" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description" class="control-label"></label>
+                    <input asp-for="Description" class="form-control" />
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="ImageFile" class="control-label">Upload Image</label>
+                    <input type="file" asp-for="ImageFile" class="form-control" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CategoryId" class="control-label"></label>
+                    <select asp-for="CategoryId" class="form-control" required>
+                        <option value="">Select a category</option>
+                        @foreach (var category in Model.Categories)
+                        {
+                            <option value="@category.Id">@category.Name</option>
+                        }
+                    </select>
+                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center mt-3">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+            <div class="text-center mt-3">
+                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </div>
+    </div>
+}
