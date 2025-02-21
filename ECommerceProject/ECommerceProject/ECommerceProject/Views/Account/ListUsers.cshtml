@@ -1,0 +1,92 @@
+﻿ 
+
+@{
+    ViewData["Title"] = "List Users";
+}
+
+<h1>List of Users</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["Error"]
+    </div>
+}
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.RoleName</td>
+                <td>
+                    <!-- Delete button with a link to the delete confirmation page -->
+                    @if (user.RoleName != "Admin" && user.RoleName != "Trader")
+                    {
+                        <a href="@Url.Action("Delete", "User", new { username = user.Username })" class="btn btn-danger btn-sm">
+                            Delete
+                        </a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">Cannot delete</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<!-- Delete Confirmation Modal -->
+<div class="modal fade" id="confirmDeleteModal" tabindex="-1" aria-labelledby="confirmDeleteLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="confirmDeleteLabel">Confirm Deletion</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete <strong id="deleteUsername"></strong>?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                <form id="deleteForm" method="post" asp-action="DeleteUser">
+                    <input type="hidden" name="username" id="deleteUsernameInput" />
+                    <input type="hidden" name="confirmDelete" value="true" />
+                    <button type="submit" class="btn btn-danger">Confirm</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+ <script>
+    // Populate modal with username for confirmation
+    document.addEventListener('DOMContentLoaded', function () {
+        var confirmDeleteModal = document.getElementById('confirmDeleteModal');
+        confirmDeleteModal.addEventListener('show.bs.modal', function (event) {
+            var button = event.relatedTarget;
+            var username = button.getAttribute('data-username');
+            document.getElementById('deleteUsername').textContent = username;
+            document.getElementById('deleteUsernameInput').value = username;
+        });
+    });
+</script>

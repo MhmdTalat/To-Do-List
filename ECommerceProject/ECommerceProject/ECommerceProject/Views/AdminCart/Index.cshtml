@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ECommerceProject.Models.CartItem>
+
+<h2>All Cart Items</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>User</th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.User.UserName</td>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>
+                    <form asp-action="DeleteCartItem" method="post">
+                        <input type="hidden" name="cartItemId" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="ClearAllCarts" method="post">
+    <button type="submit" class="btn btn-danger">Clear All Carts</button>
+</form>
+    

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ECommerceProject.ViewModels.RegisterViewModel>
+
+@{
+    ViewData["Title"] = "Get All Admins";
+}
+@if (!User.IsInRole("Admin")) {
+    <div class="alert alert-danger">
+        You do not have permission to access this page.
+    </div>
+} else {
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow" style="width: 100%; max-width: 600px;">
+        <h1 class="text-center">Get All Admins</h1>
+        <hr />
+        <p>
+            <a asp-action="AddAdmin" class="btn btn-primary">Create New</a>
+        </p>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(model => model.First().Username)</th>
+                    <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Username)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Username }, new { @class = "btn btn-sm btn-warning" }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.Username }, new { @class = "btn btn-sm btn-info" }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Username }, new { @class = "btn btn-sm btn-danger" })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+}

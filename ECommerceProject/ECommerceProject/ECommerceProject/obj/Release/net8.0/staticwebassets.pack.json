@@ -1,0 +1,949 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ECommerceProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ECommerceProject.3e6mfaefet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Chicken\\1.jpg",
+      "PackagePath": "staticwebassets\\Chicken\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Chicken\\2.jpg",
+      "PackagePath": "staticwebassets\\Chicken\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Chicken\\3.jpg",
+      "PackagePath": "staticwebassets\\Chicken\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Chicken\\AdobeStock_50754054_Preview.jpeg",
+      "PackagePath": "staticwebassets\\Chicken\\AdobeStock_50754054_Preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Flaver\\1.jpg",
+      "PackagePath": "staticwebassets\\Flaver\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Flaver\\2.jpg",
+      "PackagePath": "staticwebassets\\Flaver\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\Flaver\\3.jpg",
+      "PackagePath": "staticwebassets\\Flaver\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\10ea9cbd-811b-4219-a59d-0884ab57116d.png",
+      "PackagePath": "staticwebassets\\images\\10ea9cbd-811b-4219-a59d-0884ab57116d.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\1162eb36-da5f-422d-9689-b0ae48f40748.jpg",
+      "PackagePath": "staticwebassets\\images\\1162eb36-da5f-422d-9689-b0ae48f40748.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\16ca0e03-916b-437b-a895-f55bae97a3c1.jpg",
+      "PackagePath": "staticwebassets\\images\\16ca0e03-916b-437b-a895-f55bae97a3c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\179a6f0f-ca66-43c9-b7d2-8dd8cd317905.png",
+      "PackagePath": "staticwebassets\\images\\179a6f0f-ca66-43c9-b7d2-8dd8cd317905.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\17a9a54b-d020-4cd5-a37c-509a407de863.png",
+      "PackagePath": "staticwebassets\\images\\17a9a54b-d020-4cd5-a37c-509a407de863.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\188b0075-cb3b-4339-9e23-8a100af39338.jpg",
+      "PackagePath": "staticwebassets\\images\\188b0075-cb3b-4339-9e23-8a100af39338.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\1bbbc1d1-d903-4159-9e60-15f45223fe90.png",
+      "PackagePath": "staticwebassets\\images\\1bbbc1d1-d903-4159-9e60-15f45223fe90.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\23f26da4-6cc0-4435-ab6b-06f705883104.png",
+      "PackagePath": "staticwebassets\\images\\23f26da4-6cc0-4435-ab6b-06f705883104.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\24440024-7160-43e1-b713-f3d0fe350601.png",
+      "PackagePath": "staticwebassets\\images\\24440024-7160-43e1-b713-f3d0fe350601.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\299fcf0e-577a-404d-89b4-20d5cdf6fecb.png",
+      "PackagePath": "staticwebassets\\images\\299fcf0e-577a-404d-89b4-20d5cdf6fecb.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\29df22e4-220e-4946-a95f-36d8a4c5c5d7.jpg",
+      "PackagePath": "staticwebassets\\images\\29df22e4-220e-4946-a95f-36d8a4c5c5d7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\2a625cac-e5bf-42cd-aa72-bd25435337fd.png",
+      "PackagePath": "staticwebassets\\images\\2a625cac-e5bf-42cd-aa72-bd25435337fd.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\2d50bd92-7b65-450f-8ef7-042d9785ba67.png",
+      "PackagePath": "staticwebassets\\images\\2d50bd92-7b65-450f-8ef7-042d9785ba67.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\2f8ce0d7-df7c-4241-a046-082302ae693a.png",
+      "PackagePath": "staticwebassets\\images\\2f8ce0d7-df7c-4241-a046-082302ae693a.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\35ac2b30-b298-4fc5-9f5c-a1434bcab68e.png",
+      "PackagePath": "staticwebassets\\images\\35ac2b30-b298-4fc5-9f5c-a1434bcab68e.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\37597cb7-c4dd-49b0-a4f8-25cbb5f4112a.png",
+      "PackagePath": "staticwebassets\\images\\37597cb7-c4dd-49b0-a4f8-25cbb5f4112a.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\40ee865d-e978-483a-9c9f-5e9b9ed61536.png",
+      "PackagePath": "staticwebassets\\images\\40ee865d-e978-483a-9c9f-5e9b9ed61536.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\42994e56-2f08-4936-9a52-9d2e1bc25ad5.jpg",
+      "PackagePath": "staticwebassets\\images\\42994e56-2f08-4936-9a52-9d2e1bc25ad5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\49b5e4fc-4a34-41ce-9227-89a8b79433d1.png",
+      "PackagePath": "staticwebassets\\images\\49b5e4fc-4a34-41ce-9227-89a8b79433d1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\4adc3613-a686-4bd4-ad57-e842b0f604ed.png",
+      "PackagePath": "staticwebassets\\images\\4adc3613-a686-4bd4-ad57-e842b0f604ed.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\4b817c87-c962-4697-a613-0d1f16795aa8.png",
+      "PackagePath": "staticwebassets\\images\\4b817c87-c962-4697-a613-0d1f16795aa8.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\50a18987-f685-41a3-bc3f-f3bce8e5732e.png",
+      "PackagePath": "staticwebassets\\images\\50a18987-f685-41a3-bc3f-f3bce8e5732e.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\52557abd-b8b1-41d7-bf5f-a292f8252502.jpg",
+      "PackagePath": "staticwebassets\\images\\52557abd-b8b1-41d7-bf5f-a292f8252502.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\557e7b75-8521-46fc-9ceb-e056b269bc7c.png",
+      "PackagePath": "staticwebassets\\images\\557e7b75-8521-46fc-9ceb-e056b269bc7c.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\576d65ac-bef8-4c77-85f7-fe630852b9f1.png",
+      "PackagePath": "staticwebassets\\images\\576d65ac-bef8-4c77-85f7-fe630852b9f1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\5bde9a98-f664-40e9-950f-23845f39914f.jpg",
+      "PackagePath": "staticwebassets\\images\\5bde9a98-f664-40e9-950f-23845f39914f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\5cc661e7-0ca4-473d-9ef0-6ea78db27c90.jpg",
+      "PackagePath": "staticwebassets\\images\\5cc661e7-0ca4-473d-9ef0-6ea78db27c90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\5d06c49f-2b72-4f74-83b5-b432d5507b85.png",
+      "PackagePath": "staticwebassets\\images\\5d06c49f-2b72-4f74-83b5-b432d5507b85.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\5f46d9ca-1811-4df6-bb8f-ff7639ab849a.png",
+      "PackagePath": "staticwebassets\\images\\5f46d9ca-1811-4df6-bb8f-ff7639ab849a.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\64d0db0d-638f-4313-a9a5-abf67fe8f218.png",
+      "PackagePath": "staticwebassets\\images\\64d0db0d-638f-4313-a9a5-abf67fe8f218.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\6576509e-5717-4990-b22b-16086644722c.png",
+      "PackagePath": "staticwebassets\\images\\6576509e-5717-4990-b22b-16086644722c.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\65ac491f-9d38-4331-9141-72d9711e544c.png",
+      "PackagePath": "staticwebassets\\images\\65ac491f-9d38-4331-9141-72d9711e544c.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\670550ab-6677-43de-9aa0-34bd60c96f65.png",
+      "PackagePath": "staticwebassets\\images\\670550ab-6677-43de-9aa0-34bd60c96f65.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\68c66104-e17d-4df0-8fb7-c47c066210d0.png",
+      "PackagePath": "staticwebassets\\images\\68c66104-e17d-4df0-8fb7-c47c066210d0.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\690ddf49-eb6c-46b0-8ccf-37ec55f1fcf9.png",
+      "PackagePath": "staticwebassets\\images\\690ddf49-eb6c-46b0-8ccf-37ec55f1fcf9.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\6b2ce1a8-660d-47f5-aec5-ef013be5dd44.png",
+      "PackagePath": "staticwebassets\\images\\6b2ce1a8-660d-47f5-aec5-ef013be5dd44.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\6bcdf032-9e18-4f09-86b5-649cc27c21dc.jpg",
+      "PackagePath": "staticwebassets\\images\\6bcdf032-9e18-4f09-86b5-649cc27c21dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\6c2d0b29-420d-4544-8a72-2f98abee09ca.jpg",
+      "PackagePath": "staticwebassets\\images\\6c2d0b29-420d-4544-8a72-2f98abee09ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\7063a051-4447-41c2-ae72-838ba913bfbb.png",
+      "PackagePath": "staticwebassets\\images\\7063a051-4447-41c2-ae72-838ba913bfbb.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\71c139d3-77c6-409b-b255-74c8c53d5c66.jpg",
+      "PackagePath": "staticwebassets\\images\\71c139d3-77c6-409b-b255-74c8c53d5c66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\768dbd45-fde8-470a-a32d-54faf5739bee.png",
+      "PackagePath": "staticwebassets\\images\\768dbd45-fde8-470a-a32d-54faf5739bee.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\795339a1-1a85-41d0-bfbc-6c0f4508622d.jpg",
+      "PackagePath": "staticwebassets\\images\\795339a1-1a85-41d0-bfbc-6c0f4508622d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\7f03ab39-4b98-4d5b-8148-1f840fbb2b83.jpg",
+      "PackagePath": "staticwebassets\\images\\7f03ab39-4b98-4d5b-8148-1f840fbb2b83.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\803b3399-f540-480f-b531-a4c4e895e38b.jpg",
+      "PackagePath": "staticwebassets\\images\\803b3399-f540-480f-b531-a4c4e895e38b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\83685ee7-fed5-470e-9271-69f090ae3b79.jpg",
+      "PackagePath": "staticwebassets\\images\\83685ee7-fed5-470e-9271-69f090ae3b79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\87fded07-27f5-4502-80f2-0cfd8b094694.png",
+      "PackagePath": "staticwebassets\\images\\87fded07-27f5-4502-80f2-0cfd8b094694.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\8ad10d81-ef0a-452b-b1cb-1f33ddfef81a.jpg",
+      "PackagePath": "staticwebassets\\images\\8ad10d81-ef0a-452b-b1cb-1f33ddfef81a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\8eb49a06-1acf-4b1c-a416-e658361a3b89.png",
+      "PackagePath": "staticwebassets\\images\\8eb49a06-1acf-4b1c-a416-e658361a3b89.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\8fee1d83-2e47-4113-ac9b-348ef5793dc2.png",
+      "PackagePath": "staticwebassets\\images\\8fee1d83-2e47-4113-ac9b-348ef5793dc2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\94d21c4d-2960-41ed-841f-20fc49867788.png",
+      "PackagePath": "staticwebassets\\images\\94d21c4d-2960-41ed-841f-20fc49867788.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\9c5225e0-a97e-48c1-baeb-7461c9f84716.png",
+      "PackagePath": "staticwebassets\\images\\9c5225e0-a97e-48c1-baeb-7461c9f84716.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\apple.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\apple.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\banana.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\banana.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\mango.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\mango.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\milk.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\milk.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\orange.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\orange.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Drinks\\sebastian.png",
+      "PackagePath": "staticwebassets\\images\\Drinks\\sebastian.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\Grape.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\Grape.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\Kiwi.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\Kiwi.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\apples.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\apples.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\avocado.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\avocado.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\bananas.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\bananas.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Fruits\\raspberries.png",
+      "PackagePath": "staticwebassets\\images\\Fruits\\raspberries.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Vegetables\\cucumber.png",
+      "PackagePath": "staticwebassets\\images\\Vegetables\\cucumber.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Vegetables\\lemon.png",
+      "PackagePath": "staticwebassets\\images\\Vegetables\\lemon.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Vegetables\\thumb.png",
+      "PackagePath": "staticwebassets\\images\\Vegetables\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\Vegetables\\tomatoes.png",
+      "PackagePath": "staticwebassets\\images\\Vegetables\\tomatoes.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\a4052d9b-44a3-496b-8c80-85c40afe3638.jpg",
+      "PackagePath": "staticwebassets\\images\\a4052d9b-44a3-496b-8c80-85c40afe3638.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\a57b7203-653d-4428-8861-75ff4e61320a.jpg",
+      "PackagePath": "staticwebassets\\images\\a57b7203-653d-4428-8861-75ff4e61320a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ad-bg-pattern.png",
+      "PackagePath": "staticwebassets\\images\\ad-bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ad-image-1.png",
+      "PackagePath": "staticwebassets\\images\\ad-image-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ad-image-2.png",
+      "PackagePath": "staticwebassets\\images\\ad-image-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ad-image-3.png",
+      "PackagePath": "staticwebassets\\images\\ad-image-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ad-image-4.png",
+      "PackagePath": "staticwebassets\\images\\ad-image-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ae0dac9a-770e-48ba-bd15-c81591b0bb60.png",
+      "PackagePath": "staticwebassets\\images\\ae0dac9a-770e-48ba-bd15-c81591b0bb60.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\ae664afa-7fb2-443b-bc39-22af6e743929.jpg",
+      "PackagePath": "staticwebassets\\images\\ae664afa-7fb2-443b-bc39-22af6e743929.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\afab5d61-8d61-4fc9-9878-86cf98db5745.jpg",
+      "PackagePath": "staticwebassets\\images\\afab5d61-8d61-4fc9-9878-86cf98db5745.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\apple.png",
+      "PackagePath": "staticwebassets\\images\\apple.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\apples.png",
+      "PackagePath": "staticwebassets\\images\\apples.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\b16910bc-c7ba-450c-b133-79f87bcc4b60.png",
+      "PackagePath": "staticwebassets\\images\\b16910bc-c7ba-450c-b133-79f87bcc4b60.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\b3606810-f3a9-4be6-ac12-2eabc0d542d8.png",
+      "PackagePath": "staticwebassets\\images\\b3606810-f3a9-4be6-ac12-2eabc0d542d8.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\b5388abe-e913-4855-a056-5de0ae021f88.png",
+      "PackagePath": "staticwebassets\\images\\b5388abe-e913-4855-a056-5de0ae021f88.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\background-pattern.jpg",
+      "PackagePath": "staticwebassets\\images\\background-pattern.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\banner-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\bg-dot-pattern.png",
+      "PackagePath": "staticwebassets\\images\\bg-dot-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\bg-leaves-img-pattern.png",
+      "PackagePath": "staticwebassets\\images\\bg-leaves-img-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\bg-leaves-pattern.png",
+      "PackagePath": "staticwebassets\\images\\bg-leaves-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\bg-light.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\bg-pattern-2.png",
+      "PackagePath": "staticwebassets\\images\\bg-pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\c0127d58-4f26-4cfd-b816-3199b37b08f4.png",
+      "PackagePath": "staticwebassets\\images\\c0127d58-4f26-4cfd-b816-3199b37b08f4.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\c549f675-3e5a-449e-97ba-db8cd7014d04.png",
+      "PackagePath": "staticwebassets\\images\\c549f675-3e5a-449e-97ba-db8cd7014d04.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\c86348f4-960c-429a-881a-89a403fe87b8.png",
+      "PackagePath": "staticwebassets\\images\\c86348f4-960c-429a-881a-89a403fe87b8.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\cd172e8c-1553-4d31-a446-d4d08bd11b51.jpg",
+      "PackagePath": "staticwebassets\\images\\cd172e8c-1553-4d31-a446-d4d08bd11b51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\d6227e47-2b3b-4a88-977a-b8316eba5c2e.jpg",
+      "PackagePath": "staticwebassets\\images\\d6227e47-2b3b-4a88-977a-b8316eba5c2e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\d6cdb88b-92f4-4f31-9e2f-b5e7aa850355.png",
+      "PackagePath": "staticwebassets\\images\\d6cdb88b-92f4-4f31-9e2f-b5e7aa850355.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\db61dcf2-9ee2-422c-b448-57337a0587c1.png",
+      "PackagePath": "staticwebassets\\images\\db61dcf2-9ee2-422c-b448-57337a0587c1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\df783ce9-16cc-4056-a307-2d049d24bfe1.png",
+      "PackagePath": "staticwebassets\\images\\df783ce9-16cc-4056-a307-2d049d24bfe1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\e9d52959-cf00-4ad2-86a0-79bd5a1d2307.jpg",
+      "PackagePath": "staticwebassets\\images\\e9d52959-cf00-4ad2-86a0-79bd5a1d2307.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\eb4e7fc9-f194-4234-b9d8-ae7a31b941f2.png",
+      "PackagePath": "staticwebassets\\images\\eb4e7fc9-f194-4234-b9d8-ae7a31b941f2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\f4a8b3b1-76a7-4ee4-b7d9-36dcfaccb940.png",
+      "PackagePath": "staticwebassets\\images\\f4a8b3b1-76a7-4ee4-b7d9-36dcfaccb940.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\f867b713-e5e3-4242-877f-cf7df9569a9e.png",
+      "PackagePath": "staticwebassets\\images\\f867b713-e5e3-4242-877f-cf7df9569a9e.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\f9a07940-dca5-4236-ac35-47ed5abec17a.jpg",
+      "PackagePath": "staticwebassets\\images\\f9a07940-dca5-4236-ac35-47ed5abec17a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\fb3f5b25-02a5-4377-bef6-e2db15ef0583.png",
+      "PackagePath": "staticwebassets\\images\\fb3f5b25-02a5-4377-bef6-e2db15ef0583.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\fbac1af5-995f-4fa0-a1bf-6b2c1c7aaefb.png",
+      "PackagePath": "staticwebassets\\images\\fbac1af5-995f-4fa0-a1bf-6b2c1c7aaefb.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\gift.svg",
+      "PackagePath": "staticwebassets\\images\\gift.svg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-animal-products-drumsticks.png",
+      "PackagePath": "staticwebassets\\images\\icon-animal-products-drumsticks.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-bread-baguette.png",
+      "PackagePath": "staticwebassets\\images\\icon-bread-baguette.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-bread-herb-flour.png",
+      "PackagePath": "staticwebassets\\images\\icon-bread-herb-flour.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-soft-drinks-bottle.png",
+      "PackagePath": "staticwebassets\\images\\icon-soft-drinks-bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-vegetables-broccoli.png",
+      "PackagePath": "staticwebassets\\images\\icon-vegetables-broccoli.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\icon-wine-glass-bottle.png",
+      "PackagePath": "staticwebassets\\images\\icon-wine-glass-bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\muhammed tallat.jpg",
+      "PackagePath": "staticwebassets\\images\\muhammed tallat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-1.png",
+      "PackagePath": "staticwebassets\\images\\product-thumb-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-11.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-12.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-13.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumb-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-14.jpg",
+      "PackagePath": "staticwebassets\\images\\product-thumb-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\product-thumb-2.png",
+      "PackagePath": "staticwebassets\\images\\product-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\slide-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\slide-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\slide-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\slide-4.jpg",
+      "PackagePath": "staticwebassets\\images\\slide-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-avocado.png",
+      "PackagePath": "staticwebassets\\images\\thumb-avocado.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-bananas.png",
+      "PackagePath": "staticwebassets\\images\\thumb-bananas.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-biscuits - Copy.png",
+      "PackagePath": "staticwebassets\\images\\thumb-biscuits - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-biscuits.png",
+      "PackagePath": "staticwebassets\\images\\thumb-biscuits.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-cucumber.png",
+      "PackagePath": "staticwebassets\\images\\thumb-cucumber.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-herb.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-herb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-honey.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-honey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-junk.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-junk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-milk.png",
+      "PackagePath": "staticwebassets\\images\\thumb-milk.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-orange-juice.png",
+      "PackagePath": "staticwebassets\\images\\thumb-orange-juice.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-raspberries.png",
+      "PackagePath": "staticwebassets\\images\\thumb-raspberries.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-tomatoketchup.png",
+      "PackagePath": "staticwebassets\\images\\thumb-tomatoketchup.png"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\images\\thumb-tuna.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb-tuna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\js\\script2.js",
+      "PackagePath": "staticwebassets\\js\\script2.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\meat\\1.jpg",
+      "PackagePath": "staticwebassets\\meat\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\meat\\2.jpg",
+      "PackagePath": "staticwebassets\\meat\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Muham\\OneDrive\\Desktop\\ECommerceProject\\ECommerceProject\\ECommerceProject\\wwwroot\\meat\\3.jpg",
+      "PackagePath": "staticwebassets\\meat\\3.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ECommerceProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ECommerceProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ECommerceProject.props",
+      "PackagePath": "build\\ECommerceProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerceProject.props",
+      "PackagePath": "buildMultiTargeting\\ECommerceProject.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECommerceProject.props",
+      "PackagePath": "buildTransitive\\ECommerceProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
